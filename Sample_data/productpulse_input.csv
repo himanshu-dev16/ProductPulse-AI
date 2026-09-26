@@ -1,0 +1,31 @@
+customer_id,customer_name,country,signup_date,plan,monthly_spend,total_orders,total_spend,last_purchase_date,support_tickets,avg_session_minutes,feature_usage_count,churned,product_category,rating,sentiment,feedback
+C001,Aarav Sharma,India,2025-01-15,Free,0,2,70,2026-08-25,0,8,12,1,Analytics,1,Negative,Reports are slow and sometimes fail to load
+C002,Priya Verma,India,2025-01-26,Pro,49,9,619,2026-08-21,3,21,29,0,Collaboration,5,Positive,Excellent dashboard and easy to use
+C003,Rohan Mehta,India,2025-02-06,Business,149,16,1689,2026-08-17,6,34,46,1,Storage,1,Negative,The application crashes during heavy usage
+C004,Ananya Singh,India,2025-02-17,Free,0,23,1633,2026-08-13,1,47,63,0,Automation,5,Positive,Automation saves our team a lot of time
+C005,Daniel Smith,USA,2025-02-28,Pro,49,2,509,2026-08-09,4,60,80,0,Analytics,3,Neutral,The product works well but the interface could improve
+C006,Emma Johnson,USA,2025-03-11,Business,149,9,2047,2026-08-05,7,18,97,1,Collaboration,2,Negative,Support response took too long to resolve the issue
+C007,Oliver Brown,UK,2025-03-22,Free,0,16,1712,2026-08-01,2,31,19,0,Storage,4,Positive,Great collaboration features and reliable performance
+C008,Sophia Wilson,UK,2025-04-02,Pro,49,23,3227,2026-07-28,5,44,36,0,Automation,5,Positive,Automation saves our team a lot of time
+C009,Kenji Tanaka,Japan,2025-04-13,Business,149,2,1901,2026-07-24,0,57,53,0,Analytics,3,Neutral,The product works well but the interface could improve
+C010,Yuki Sato,Japan,2025-04-24,Free,0,9,315,2026-07-20,3,15,70,1,Collaboration,2,Negative,Support response took too long to resolve the issue
+C011,Liam Miller,USA,2025-05-05,Pro,49,16,948,2026-07-16,6,28,87,1,Storage,1,Negative,The application crashes during heavy usage
+C012,Noah Davis,USA,2025-05-16,Business,149,23,2102,2026-07-12,1,41,104,1,Automation,2,Negative,Feature usage is difficult and needs improvement
+C013,Lucas Martin,France,2025-05-27,Free,0,2,142,2026-07-08,4,54,26,0,Analytics,3,Neutral,The product works well but the interface could improve
+C014,Mia Dubois,France,2025-06-07,Pro,49,9,1090,2026-07-04,7,12,43,1,Collaboration,2,Negative,Support response took too long to resolve the issue
+C015,Hannah Lee,Singapore,2025-06-18,Business,149,16,2712,2026-06-30,2,25,60,0,Storage,4,Positive,Great collaboration features and reliable performance
+C016,Ethan Wong,Singapore,2025-06-29,Free,0,23,2461,2026-06-26,5,38,77,0,Automation,5,Positive,Automation saves our team a lot of time
+C017,Arjun Kapoor,India,2025-07-10,Pro,49,2,728,2026-06-22,0,51,94,0,Analytics,3,Neutral,The product works well but the interface could improve
+C018,Neha Gupta,India,2025-07-21,Business,149,9,2818,2026-06-18,3,9,16,1,Collaboration,2,Negative,Support response took too long to resolve the issue
+C019,Vikram Rao,India,2025-08-01,Free,0,16,560,2026-06-14,6,22,33,1,Storage,1,Negative,The application crashes during heavy usage
+C020,Sara Khan,India,2025-08-12,Pro,49,23,1277,2026-08-24,1,35,50,0,Automation,5,Positive,Automation saves our team a lot of time
+C021,James Taylor,USA,2025-08-23,Business,149,2,863,2026-08-20,4,48,67,0,Analytics,3,Neutral,The product works well but the interface could improve
+C022,Emily Clark,USA,2025-09-03,Free,0,9,639,2026-08-16,7,61,84,1,Collaboration,2,Negative,Support response took too long to resolve the issue
+C023,George Evans,UK,2025-09-14,Pro,49,16,1671,2026-08-12,2,19,101,1,Storage,1,Negative,The application crashes during heavy usage
+C024,Amelia Thomas,UK,2025-09-25,Business,149,23,3377,2026-08-08,5,32,23,0,Automation,5,Positive,Automation saves our team a lot of time
+C025,Haruto Ito,Japan,2025-10-06,Free,0,2,214,2026-08-04,0,45,40,0,Analytics,3,Neutral,The product works well but the interface could improve
+C026,Aiko Mori,Japan,2025-10-17,Pro,49,9,1561,2026-07-31,3,58,57,0,Collaboration,5,Positive,Excellent dashboard and easy to use
+C027,Paul Bernard,France,2025-10-28,Business,149,16,3735,2026-07-27,6,16,74,1,Storage,1,Negative,The application crashes during heavy usage
+C028,Claire Robert,France,2025-11-08,Free,0,23,805,2026-07-23,1,29,91,0,Automation,5,Positive,Automation saves our team a lot of time
+C029,Ryan Lim,Singapore,2025-01-23,Pro,49,2,290,2026-07-19,4,42,13,0,Analytics,3,Neutral,The product works well but the interface could improve
+C030,Chloe Tan,Singapore,2025-02-03,Business,149,9,1276,2026-07-15,7,55,30,1,Collaboration,2,Negative,Support response took too long to resolve the issue
