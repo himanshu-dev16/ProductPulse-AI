@@ -1,0 +1,6 @@
+pandas
+numpy
+openpyxl
+mysql-connector-python
+pymongo
+scikit-learn
