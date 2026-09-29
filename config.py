@@ -35,7 +35,7 @@ MYSQL_PORT = 3306
 
 MYSQL_USER = "root"
 
-MYSQL_PASSWORD = "Himanshu1628@"
+MYSQL_PASSWORD = "Your_Password"
 
 MYSQL_DATABASE = "productpulse"
 
